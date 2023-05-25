@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/248750482059538854/ae56a8a921aa47d6a5451072102dd7ff/artifacts
+end_time: 1685045588975
+entry_point_name: ''
+experiment_id: '248750482059538854'
+lifecycle_stage: active
+run_id: ae56a8a921aa47d6a5451072102dd7ff
+run_name: sassy-dog-481
+run_uuid: ae56a8a921aa47d6a5451072102dd7ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685045582587
+status: 3
+tags: []
+user_id: mussie

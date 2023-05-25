@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/859122302592542753/0ac1c65cdee2445d935cfe7fc674b924/artifacts
+end_time: 1685043663383
+entry_point_name: ''
+experiment_id: '859122302592542753'
+lifecycle_stage: active
+run_id: 0ac1c65cdee2445d935cfe7fc674b924
+run_name: classy-boar-11
+run_uuid: 0ac1c65cdee2445d935cfe7fc674b924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685043656924
+status: 3
+tags: []
+user_id: mussie

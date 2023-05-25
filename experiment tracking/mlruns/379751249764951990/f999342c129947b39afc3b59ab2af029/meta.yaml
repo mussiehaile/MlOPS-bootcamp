@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/379751249764951990/f999342c129947b39afc3b59ab2af029/artifacts
+end_time: 1685045348006
+entry_point_name: ''
+experiment_id: '379751249764951990'
+lifecycle_stage: active
+run_id: f999342c129947b39afc3b59ab2af029
+run_name: resilient-steed-895
+run_uuid: f999342c129947b39afc3b59ab2af029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685045341798
+status: 3
+tags: []
+user_id: mussie

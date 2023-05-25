@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/859122302592542753/4f0536e402c04d6d9fd1099d9da3d531/artifacts
+end_time: 1685043654393
+entry_point_name: ''
+experiment_id: '859122302592542753'
+lifecycle_stage: active
+run_id: 4f0536e402c04d6d9fd1099d9da3d531
+run_name: rebellious-worm-976
+run_uuid: 4f0536e402c04d6d9fd1099d9da3d531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685043648257
+status: 3
+tags: []
+user_id: mussie

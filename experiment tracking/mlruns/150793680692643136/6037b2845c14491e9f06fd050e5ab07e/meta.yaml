@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/150793680692643136/6037b2845c14491e9f06fd050e5ab07e/artifacts
+end_time: 1685044856622
+entry_point_name: ''
+experiment_id: '150793680692643136'
+lifecycle_stage: active
+run_id: 6037b2845c14491e9f06fd050e5ab07e
+run_name: gentle-skink-17
+run_uuid: 6037b2845c14491e9f06fd050e5ab07e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685044856589
+status: 4
+tags: []
+user_id: mussie

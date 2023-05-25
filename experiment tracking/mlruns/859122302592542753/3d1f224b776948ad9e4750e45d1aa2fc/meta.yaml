@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/859122302592542753/3d1f224b776948ad9e4750e45d1aa2fc/artifacts
+end_time: 1685043670172
+entry_point_name: ''
+experiment_id: '859122302592542753'
+lifecycle_stage: active
+run_id: 3d1f224b776948ad9e4750e45d1aa2fc
+run_name: caring-robin-780
+run_uuid: 3d1f224b776948ad9e4750e45d1aa2fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685043666876
+status: 3
+tags: []
+user_id: mussie

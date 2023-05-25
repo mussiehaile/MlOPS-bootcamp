@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/248750482059538854
+creation_time: 1685045582239
+experiment_id: '248750482059538854'
+last_update_time: 1685045582239
+lifecycle_stage: active
+name: best-models

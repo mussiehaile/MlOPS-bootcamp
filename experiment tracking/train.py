@@ -5,7 +5,7 @@ import mlflow
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
 
-mlflow.set_tracking_uri('sqlite:///mlflow.db')
+#mlflow.set_tracking_uri('sqlite:///mlflow.db')
 mlflow.set_experiment('nyc-experiment')
 
 def load_pickle(filename: str):

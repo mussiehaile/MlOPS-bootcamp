@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/859122302592542753/a0570f0629224602b5317f0ecfacff84/artifacts
+end_time: 1685043680262
+entry_point_name: ''
+experiment_id: '859122302592542753'
+lifecycle_stage: active
+run_id: a0570f0629224602b5317f0ecfacff84
+run_name: calm-snipe-313
+run_uuid: a0570f0629224602b5317f0ecfacff84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685043678011
+status: 3
+tags: []
+user_id: mussie

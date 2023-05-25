@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/859122302592542753/d625d5a60d1244a8a32719d81856eb98/artifacts
+end_time: 1685043686014
+entry_point_name: ''
+experiment_id: '859122302592542753'
+lifecycle_stage: active
+run_id: d625d5a60d1244a8a32719d81856eb98
+run_name: caring-snipe-154
+run_uuid: d625d5a60d1244a8a32719d81856eb98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685043683856
+status: 3
+tags: []
+user_id: mussie

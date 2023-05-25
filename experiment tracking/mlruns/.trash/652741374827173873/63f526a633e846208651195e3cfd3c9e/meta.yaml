@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/652741374827173873/63f526a633e846208651195e3cfd3c9e/artifacts
+deleted_time: 1685045286440
+end_time: 1685044332045
+entry_point_name: ''
+experiment_id: '652741374827173873'
+lifecycle_stage: deleted
+run_id: 63f526a633e846208651195e3cfd3c9e
+run_name: treasured-lynx-606
+run_uuid: 63f526a633e846208651195e3cfd3c9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685044294953
+status: 3
+tags: []
+user_id: mussie

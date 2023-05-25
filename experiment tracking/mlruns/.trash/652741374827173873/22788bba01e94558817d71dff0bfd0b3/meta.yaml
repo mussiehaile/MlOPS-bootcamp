@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/652741374827173873/22788bba01e94558817d71dff0bfd0b3/artifacts
+deleted_time: 1685044377525
+end_time: 1685044017518
+entry_point_name: ''
+experiment_id: '652741374827173873'
+lifecycle_stage: deleted
+run_id: 22788bba01e94558817d71dff0bfd0b3
+run_name: fortunate-hawk-519
+run_uuid: 22788bba01e94558817d71dff0bfd0b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685044013841
+status: 4
+tags: []
+user_id: mussie

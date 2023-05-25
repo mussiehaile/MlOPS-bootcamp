@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/232332384900549804
+creation_time: 1685042316239
+experiment_id: '232332384900549804'
+last_update_time: 1685042316239
+lifecycle_stage: active
+name: random-forest-best-model

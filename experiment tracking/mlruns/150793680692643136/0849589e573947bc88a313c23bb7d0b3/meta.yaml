@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/150793680692643136/0849589e573947bc88a313c23bb7d0b3/artifacts
+end_time: 1685044780552
+entry_point_name: ''
+experiment_id: '150793680692643136'
+lifecycle_stage: active
+run_id: 0849589e573947bc88a313c23bb7d0b3
+run_name: unequaled-crab-769
+run_uuid: 0849589e573947bc88a313c23bb7d0b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685044780524
+status: 4
+tags: []
+user_id: mussie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/859122302592542753/c4da06df6f2d4380aa1a29374dd8fc43/artifacts
+end_time: 1685043666862
+entry_point_name: ''
+experiment_id: '859122302592542753'
+lifecycle_stage: active
+run_id: c4da06df6f2d4380aa1a29374dd8fc43
+run_name: auspicious-mule-600
+run_uuid: c4da06df6f2d4380aa1a29374dd8fc43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685043663396
+status: 3
+tags: []
+user_id: mussie

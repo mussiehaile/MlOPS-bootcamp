@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/859122302592542753/c444d23eaf1c4a508210754102090299/artifacts
+end_time: 1685043683845
+entry_point_name: ''
+experiment_id: '859122302592542753'
+lifecycle_stage: active
+run_id: c444d23eaf1c4a508210754102090299
+run_name: powerful-bee-665
+run_uuid: c444d23eaf1c4a508210754102090299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685043680276
+status: 3
+tags: []
+user_id: mussie

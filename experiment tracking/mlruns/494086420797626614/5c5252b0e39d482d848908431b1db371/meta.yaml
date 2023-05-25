@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mussie/Documents/MlOPS-bootcamp/experiment%20tracking/mlruns/494086420797626614/5c5252b0e39d482d848908431b1db371/artifacts
+end_time: 1685041278935
+entry_point_name: ''
+experiment_id: '494086420797626614'
+lifecycle_stage: active
+run_id: 5c5252b0e39d482d848908431b1db371
+run_name: puzzled-auk-864
+run_uuid: 5c5252b0e39d482d848908431b1db371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685041265600
+status: 3
+tags: []
+user_id: mussie
